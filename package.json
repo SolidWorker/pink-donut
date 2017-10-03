@@ -1,0 +1,35 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "My Builder with Gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolidWorker/GulpBuilder.git"
+  },
+  "author": "\"Дмитрий Чумак. SolidWorker\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolidWorker/GulpBuilder/issues"
+  },
+  "homepage": "https://github.com/SolidWorker/GulpBuilder#readme"
+}
